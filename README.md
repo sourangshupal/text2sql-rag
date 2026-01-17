@@ -137,13 +137,11 @@ jupyter notebook
 **Level:** 🟡 Intermediate | **Duration:** ⏱️ 30-45 minutes
 
 **Topics:**
-- ☁️ PostgreSQL/Supabase cloud database integration
+- ☁️ Supabase cloud database integration
 - 🔐 Secure connection setup with SSL
 - 🔑 URL encoding for passwords with special characters
 - 🔎 Schema inspection of cloud databases
 - 💬 Basic querying with `NLSQLTableQueryEngine`
-- 🐘 PostgreSQL-specific SQL features (informational)
-- 📖 Production considerations and best practices (reference)
 
 **💡 What you'll learn:** How to connect text-to-SQL systems to cloud PostgreSQL databases (Supabase)
 
